@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://gittogeorgethomas.github.io/csb-17l44z/static/css/main.47898384.chunk.css",
+    "main.js": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/main.6bc0e93e.chunk.js",
+    "main.js.map": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/main.6bc0e93e.chunk.js.map",
+    "runtime-main.js": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/runtime-main.d5d424d0.js",
+    "runtime-main.js.map": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/runtime-main.d5d424d0.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://gittogeorgethomas.github.io/csb-17l44z/static/css/2.cbedb215.chunk.css",
+    "static/js/2.a255c507.chunk.js": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/2.a255c507.chunk.js",
+    "static/js/2.a255c507.chunk.js.map": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/2.a255c507.chunk.js.map",
+    "index.html": "https://gittogeorgethomas.github.io/csb-17l44z/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://gittogeorgethomas.github.io/csb-17l44z/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.47898384.chunk.css.map": "https://gittogeorgethomas.github.io/csb-17l44z/static/css/main.47898384.chunk.css.map",
+    "static/js/2.a255c507.chunk.js.LICENSE.txt": "https://gittogeorgethomas.github.io/csb-17l44z/static/js/2.a255c507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5d424d0.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.a255c507.chunk.js",
+    "static/css/main.47898384.chunk.css",
+    "static/js/main.6bc0e93e.chunk.js"
+  ]
+}
